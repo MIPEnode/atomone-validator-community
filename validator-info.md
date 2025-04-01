@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|MIPEnode |   |https://x.com/MIPEnode  | Viet Nam  |  https://github.com/MIPEnode | anphat1686@gmail.com  |  MIPEnode |  DD416E3FE74B528BB6FCE2768B0EDE48DC72AFB6C16C66BC2A354F6A21D878E2 |
+|MIPEnode |   |https://x.com/MIPEnode  | Viet Nam  |  https://github.com/MIPEnode | anphat1686@gmail.com  |  MIPEnode |  30A001AC40FD577BB4C5240CC624D0EFCC7C5E594222AED4ABFB644C5BACC87A |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
